@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharath Bonala @bonalation13
 - 👀 I’m interested in Cloud Technology, Containers and Networking
-- 🌱 I’m currently learning Dockers and Kubernetes along with AWS.
+- 🌱 I’m currently learning Dockers and Podman along with AWS.
 - 💞️ I’m looking to collaborate on Cloud Engineering or DevOPS roles
 - 📫 How to reach me via LinkedIN or by mail ID : bharathbonala13@yahoo.in
 - 😄 Pronouns: He/Him
