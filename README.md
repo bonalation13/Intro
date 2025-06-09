@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bharath Bonala @bonalation13
-- I'm RedHat Certified and AWS Solution Archeitect Associate
+- 📜 I'm RedHat Certified and AWS Solution Archeitect Associate
 - 👀 I’m interested in Cloud Technology, Containers and Networking
 - 🌱 I’m currently learning Dockers and Podman along with AWS.
 - 💞️ I’m looking to collaborate on Cloud Engineering or DevOPS roles
